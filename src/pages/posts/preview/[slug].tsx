@@ -19,7 +19,7 @@ interface PostPreviewProps {
 }
 
 const PostPreview: React.FC<PostPreviewProps> = ({ post }) => {
-  const { data } = useSession();
+  const { data } = useSession() as any;
   const router = useRouter();
 
   useEffect(() => {
