@@ -3,7 +3,7 @@
 Ig.news is a subscription news site project. Made in order to challenge myself and study the use of famous tools in the Nodejs ecosystem.<br>
 To make this project possible, i have used <b>Stripe</b> to receive the payments and <b>FaunaDB</b> to storage de subscriptions, to content manager i have used <b>Prismic</b>, and finally, for authentication, I used the login with github through <b>NextAuth</b>.
 
-<img align="center" src="./public/gif.gif" />
+<img align="center" src="./public/gif.gif" width="100%" />
 
 ## 📌 Used frameworks
 
